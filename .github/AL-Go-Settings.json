@@ -1,0 +1,7 @@
+{
+  "type": "AppSource App",
+  "doNotPublishApps": false,
+  "templateUrl": "https://github.com/businesscentralapps/tmp25dIle-AppSource@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "useCompilerFolder": false
+}
